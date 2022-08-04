@@ -24,5 +24,5 @@ client.on("ready", () => {
     console.log("done");
 })
 
-client.login({clientId: "clientid vašej aplikácie"});
+client.login({clientId: "APPLICATION ID"});
 // https://discord.com/developers/applications
